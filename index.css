@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+}
+
+#nav {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+#nav li {
+    margin: 0 -2px 15px;
+    background-color: #222222;
+    display: inline-block;
+    width: 25%;
+    color: white;
+    font-size: large;
+}
+
+#nav li a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    padding: 15px 0;
+}
+
+#nav li a:hover { 
+    background-color: darkgrey;
+    color: black;
+}
