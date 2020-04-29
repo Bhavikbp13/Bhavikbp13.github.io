@@ -71,6 +71,7 @@ p{
 .index_main{
     text-align: center;
     margin-top: 100px;
+    padding-top: 20px;
 }
 .about_main{
     display:flex;
