@@ -28,10 +28,10 @@ Say Hello!
 
 <div class="hero-right">
 
-<img
+<!-- <img
 src="/profile.png"
 alt="Profile"
-/>
+/> -->
 
 </div>
 
