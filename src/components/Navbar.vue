@@ -10,10 +10,10 @@
 </div>
 
 <nav class="temporary-menu">
-    <router-link to="/">About</router-link> | 
-    <router-link to="/projects">Projects</router-link> | 
-    <router-link to="/skills">Skills</router-link> | 
-    <router-link to="/contact">Contact</router-link>
+    <router-link to="../views/AboutView.vue">About</router-link> | 
+    <router-link to="../views/ProjectsView.vue">Projects</router-link> | 
+    <router-link to="../views/SkillsView.vue">Skills</router-link> | 
+    <router-link to="../views/ContactView.vue">Contact</router-link>
 </nav>
 
 <button>Contact</button>
