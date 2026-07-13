@@ -4,9 +4,9 @@
 
 <div class="card">
 
-<h2>2+</h2>
+<h2>1</h2>
 
-<p>Years Experience</p>
+<p>Year Experience</p>
 
 </div>
 
@@ -20,9 +20,9 @@
 
 <div class="card">
 
-<h2>15+</h2>
+<h2>10+</h2>
 
-<p>Happy Clients</p>
+<p>Languages Used</p>
 
 </div>
 
