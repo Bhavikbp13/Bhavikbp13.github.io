@@ -1,19 +1,21 @@
 <template>
 <header>
 
-<div class="logo">
+<router-link to="/" class="logo-link">
+    <div class="logo">
 
-<div class="circle">B</div>
+    <div class="circle">B</div>
 
-<h2>Bhavik</h2>
+    <h2>Bhavik</h2>
 
-</div>
+    </div>
+</router-link>
 
 <nav class="temporary-menu">
-    <router-link to="../views/AboutView.vue">About</router-link> | 
-    <router-link to="../views/ProjectsView.vue">Projects</router-link> | 
-    <router-link to="../views/SkillsView.vue">Skills</router-link> | 
-    <router-link to="../views/ContactView.vue">Contact</router-link>
+    <router-link to="/about">About</router-link>
+    <router-link to="/projects">Projects</router-link>
+    <router-link to="/skills">Skills</router-link>
+    <router-link to="/contact">Contact</router-link>
 </nav>
 
 <button>Contact</button>

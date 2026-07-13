@@ -1,8 +1,9 @@
 <template>
   <div class="about-page">
-    <h2>About Me</h2>
-    <p>Hi, I'm a recent Computer Science graduate passionate about building clean, efficient applications.</p>
-    <p>I am currently looking for entry-level frontend or backend development roles, either based in Montreal or fully remote.</p>
+    <h2>Skills</h2>
+    <p>HTML</p>
+    <p>CSS</p>
+    <p>JavaScript</p>
   </div>
 </template>
 

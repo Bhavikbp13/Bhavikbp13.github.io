@@ -39,6 +39,11 @@ gap:15px;
 
 }
 
+.logo-link {
+  text-decoration: none; /* Removes the underline */
+  color: inherit;        /* Keeps the text your original color instead of link-blue */
+}
+
 .circle{
 
 width:45px;
@@ -281,6 +286,27 @@ color:#666;
 
 font-size:18px;
 
+}
+
+/* src/assets/style.css */
+
+.cta-button {
+  display: inline-block;
+  background-color: #3b82f6;
+  color: white;
+  padding: 0.8rem 1.5rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  width: fit-content;
+  margin-top: 1rem;
+  transition: all 0.2s ease;
+}
+
+.cta-button:hover {
+  background-color: #2563eb;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
 }
 
 @media(max-width:900px){

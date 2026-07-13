@@ -3,9 +3,14 @@
 
     <Navbar />
 
-    <Hero />
+    <main>
+      <router-view /> 
+    </main>
 
-    <Stats />
+    <div v-if="$route.path === '/'">
+      <Hero />
+      <Stats />
+    </div>
 
   </div>
 </template>

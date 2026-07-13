@@ -5,7 +5,7 @@ import SkillsView from './views/SkillsView.vue'
 import ContactView from './views/ContactView.vue'
 
 const routes = [
-  { path: '/', name: 'about', component: AboutView }, // This makes About your default home page
+  { path: '/about', name: 'about', component: AboutView },
   { path: '/projects', name: 'projects', component: ProjectsView },
   { path: '/skills', name: 'skills', component: SkillsView },
   { path: '/contact', name: 'contact', component: ContactView }

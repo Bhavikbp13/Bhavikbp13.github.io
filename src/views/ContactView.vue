@@ -1,8 +1,9 @@
 <template>
   <div class="about-page">
-    <h2>About Me</h2>
-    <p>Hi, I'm a recent Computer Science graduate passionate about building clean, efficient applications.</p>
-    <p>I am currently looking for entry-level frontend or backend development roles, either based in Montreal or fully remote.</p>
+    <h2>Contact</h2>
+    <p>E-Mail: bhavikbp13@gmail.com</p>
+    <p>LinkedIn: linkedin.com/in/bhavikbp13</p>
+    <p>GitHub: github.com/Bhavikbp13</p>
   </div>
 </template>
 

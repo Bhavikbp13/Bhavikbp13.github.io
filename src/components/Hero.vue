@@ -18,20 +18,16 @@ JavaScript, HTML and CSS.
 
 </p>
 
-<button>
-
-Say Hello!
-
-</button>
+<a href="https://www.linkedin.com/in/bhavikbp13/" target="_blank" rel="noopener noreferrer" class="cta-button">Let's Connect</a>
 
 </div>
 
 <div class="hero-right">
 
-<!-- <img
-src="/profile.png"
+<img
+src="../images/BhavikPic.jpg"
 alt="Profile"
-/> -->
+/>
 
 </div>
 
