@@ -9,18 +9,11 @@
 
 </div>
 
-<nav>
-
-<a href="#">Home</a>
-
-<a href="#">About</a>
-
-<a href="#">Projects</a>
-
-<a href="#">Skills</a>
-
-<a href="#">Contact</a>
-
+<nav class="temporary-menu">
+    <router-link to="/">About</router-link> | 
+    <router-link to="/projects">Projects</router-link> | 
+    <router-link to="/skills">Skills</router-link> | 
+    <router-link to="/contact">Contact</router-link>
 </nav>
 
 <button>Contact</button>
