@@ -14,7 +14,7 @@ Bhavik Patel
 
 I'm a Full Stack Developer based in Canada.
 I build modern websites and applications using Vue,
-JavaScript, HTML and CSS.
+JavaScript, HTML, CSS and more.
 
 </p>
 
