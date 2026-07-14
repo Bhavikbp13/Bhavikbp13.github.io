@@ -3,5 +3,13 @@ import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
   plugins: [vue()],
-  base: './' // Change this to '/BHAVIKBP13.GITHUB.IO/' if GitHub Pages requires it later
+  base: './', // Keep this
+  build: {
+    // This ensures the assets are bundled correctly
+    rollupOptions: {
+      output: {
+        manualChunks: undefined,
+      },
+    },
+  },
 })
