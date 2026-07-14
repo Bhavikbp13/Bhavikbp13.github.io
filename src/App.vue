@@ -7,7 +7,7 @@
       <router-view /> 
     </main>
 
-    <div v-if="$route.path === '/'">
+    <div v-if="$route.path === './'">
       <Hero />
       <Stats />
     </div>
